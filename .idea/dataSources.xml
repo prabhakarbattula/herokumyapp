@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="918699272">
+    <data-source source="LOCAL" name="Rails herokumyapp: development" uuid="8beea03a-e45f-476c-b5e7-ef41cb5fa464">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:herokumyapp_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails herokumyapp: test" uuid="266fd0d9-b803-447d-a333-ba47f6fda0ed">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:herokumyapp_test</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
